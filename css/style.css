@@ -1,0 +1,45 @@
+#nav {
+    float: right;
+    margin: 50px 10px 0 0;
+    font-size: 1.4em;
+}
+#nav li {
+    display: inline;
+    margin: 0 0 0 20px;
+}
+
+#nav li a {
+    color: #fff;
+    text-decoration: none;
+    background: none;
+}
+#sidebar {
+    float: left;
+    background: #eee;
+}
+
+#sidebar h2 {
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+    margin: 0 0 20px 0;
+    padding: 5px;
+}
+
+#port li {
+    margin: 0 40px 20px 0;
+    float: left;
+    border: 5px solid #ddd;
+} 
+.apple{
+    padding: 10px ;
+    background: #ffffff;
+}
+#app{
+    
+        background: rgb(156, 156, 156);
+        padding: 10px;
+        text-align: center;
+        color: rgb(49, 49, 49);
+   
+}
+    
